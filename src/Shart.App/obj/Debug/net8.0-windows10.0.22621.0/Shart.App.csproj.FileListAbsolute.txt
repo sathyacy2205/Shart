@@ -1,0 +1,7 @@
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.App\obj\Debug\net8.0-windows10.0.22621.0\Shart.App.csproj.AssemblyReference.cache
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.App\obj\Debug\net8.0-windows10.0.22621.0\Styles\Colors.baml
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.App\obj\Debug\net8.0-windows10.0.22621.0\Styles\Controls.baml
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.App\obj\Debug\net8.0-windows10.0.22621.0\Styles\Typography.baml
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.App\obj\Debug\net8.0-windows10.0.22621.0\App.baml
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.App\obj\Debug\net8.0-windows10.0.22621.0\App.g.cs
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.App\obj\Debug\net8.0-windows10.0.22621.0\Shart.App_MarkupCompile.cache
