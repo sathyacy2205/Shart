@@ -1,0 +1,16 @@
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\Shart.Storage.csproj.AssemblyReference.cache
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\Shart.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\Shart.Storage.AssemblyInfoInputs.cache
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\Shart.Storage.AssemblyInfo.cs
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\Shart.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\Shart.Storage.sourcelink.json
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\bin\Debug\net8.0-windows10.0.22621.0\Shart.Storage.deps.json
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\bin\Debug\net8.0-windows10.0.22621.0\Shart.Storage.dll
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\bin\Debug\net8.0-windows10.0.22621.0\Shart.Storage.pdb
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\bin\Debug\net8.0-windows10.0.22621.0\Shart.Core.dll
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\bin\Debug\net8.0-windows10.0.22621.0\Shart.Core.pdb
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\Shart.St.D10AE3AE.Up2Date
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\Shart.Storage.dll
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\refint\Shart.Storage.dll
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\Shart.Storage.pdb
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Storage\obj\Debug\net8.0-windows10.0.22621.0\ref\Shart.Storage.dll

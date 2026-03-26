@@ -1,0 +1,16 @@
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\bin\Debug\net8.0-windows10.0.22621.0\Shart.Network.deps.json
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\bin\Debug\net8.0-windows10.0.22621.0\Shart.Network.dll
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\bin\Debug\net8.0-windows10.0.22621.0\Shart.Network.pdb
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\bin\Debug\net8.0-windows10.0.22621.0\Shart.Core.dll
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\bin\Debug\net8.0-windows10.0.22621.0\Shart.Core.pdb
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\Shart.Network.csproj.AssemblyReference.cache
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\Shart.Network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\Shart.Network.AssemblyInfoInputs.cache
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\Shart.Network.AssemblyInfo.cs
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\Shart.Network.csproj.CoreCompileInputs.cache
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\Shart.Network.sourcelink.json
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\Shart.Ne.BDC49CFB.Up2Date
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\Shart.Network.dll
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\refint\Shart.Network.dll
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\Shart.Network.pdb
+C:\Users\Tejasri.m\OneDrive\Desktop\Shart\Shart\src\Shart.Network\obj\Debug\net8.0-windows10.0.22621.0\ref\Shart.Network.dll
