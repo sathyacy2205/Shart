@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1E34740F-0408-4E3A-9EB3-C1C5BBBB3465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shart.App", "src\Shart.App\Shart.App.csproj", "{F8B27D1F-7117-440C-86F7-C354376C4647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shart.Core", "src\Shart.Core\Shart.Core.csproj", "{D4A0F4E9-1181-4D58-A20B-53F88B5BFBD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shart.Network", "src\Shart.Network\Shart.Network.csproj", "{BD122C50-8073-4275-8206-E1A3EDDA4218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shart.Storage", "src\Shart.Storage\Shart.Storage.csproj", "{61AAC6F0-4E9E-47A6-A55B-EF3CA4887EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shart.Data", "src\Shart.Data\Shart.Data.csproj", "{3FDE54C3-90E6-4E8B-B68A-3A96B6D0F691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B27D1F-7117-440C-86F7-C354376C4647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B27D1F-7117-440C-86F7-C354376C4647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B27D1F-7117-440C-86F7-C354376C4647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B27D1F-7117-440C-86F7-C354376C4647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A0F4E9-1181-4D58-A20B-53F88B5BFBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A0F4E9-1181-4D58-A20B-53F88B5BFBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A0F4E9-1181-4D58-A20B-53F88B5BFBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A0F4E9-1181-4D58-A20B-53F88B5BFBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD122C50-8073-4275-8206-E1A3EDDA4218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD122C50-8073-4275-8206-E1A3EDDA4218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD122C50-8073-4275-8206-E1A3EDDA4218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD122C50-8073-4275-8206-E1A3EDDA4218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AAC6F0-4E9E-47A6-A55B-EF3CA4887EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AAC6F0-4E9E-47A6-A55B-EF3CA4887EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AAC6F0-4E9E-47A6-A55B-EF3CA4887EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AAC6F0-4E9E-47A6-A55B-EF3CA4887EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FDE54C3-90E6-4E8B-B68A-3A96B6D0F691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDE54C3-90E6-4E8B-B68A-3A96B6D0F691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDE54C3-90E6-4E8B-B68A-3A96B6D0F691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDE54C3-90E6-4E8B-B68A-3A96B6D0F691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8B27D1F-7117-440C-86F7-C354376C4647} = {1E34740F-0408-4E3A-9EB3-C1C5BBBB3465}
+		{D4A0F4E9-1181-4D58-A20B-53F88B5BFBD3} = {1E34740F-0408-4E3A-9EB3-C1C5BBBB3465}
+		{BD122C50-8073-4275-8206-E1A3EDDA4218} = {1E34740F-0408-4E3A-9EB3-C1C5BBBB3465}
+		{61AAC6F0-4E9E-47A6-A55B-EF3CA4887EB6} = {1E34740F-0408-4E3A-9EB3-C1C5BBBB3465}
+		{3FDE54C3-90E6-4E8B-B68A-3A96B6D0F691} = {1E34740F-0408-4E3A-9EB3-C1C5BBBB3465}
+	EndGlobalSection
+EndGlobal
